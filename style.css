@@ -1,0 +1,26 @@
+/* Stile index.html */
+/* *{
+    outline: 2px solid red;
+} */
+
+h1 {
+    text-align: center;
+}
+
+button{
+    margin: 10px;
+}
+
+#Main-list{
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.Main-list-obj{
+    padding: 10px;
+}
+
+.img-food-main{
+    width: 300px;
+    display: block;
+}
